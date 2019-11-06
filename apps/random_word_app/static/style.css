@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: lightcyan;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 80px;
+}
+
+h1 {
+    text-align: center;
+   
+}
+
+p {
+    text-align: center;
+    padding: 45px;
+    font-size: xx-large;
+}
+
+#random-word-box {
+    border: solid 5px black;
+    width: 400px;
+    height: 150px;
+    margin: 30px auto;
+}
+
+form {
+    display: flex;
+}
+
+button {
+    margin: 0 auto;
+    width: 100px;
+    height: 30px;
+}
